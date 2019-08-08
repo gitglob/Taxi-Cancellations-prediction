@@ -1,5 +1,4 @@
-# Project for ECE-422 (Data Mining) : Predictions on taxi-cancellations (https://www.kaggle.com/c/predicting-cab-booking-cancellations) 
-using ML algorithms and creation of Graphic User Interface
+# Project for ECE-422 (Data Mining) : Predictions on taxi-cancellations (https://www.kaggle.com/c/predicting-cab-booking-cancellations) using ML algorithms and creation of Graphic User Interface
 
 **Files included** :
 * final_project.ipynb : Jupyter notebook with the entire preprocessing and ML algorithms' implementation process
